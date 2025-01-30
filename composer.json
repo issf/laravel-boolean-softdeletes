@@ -50,5 +50,8 @@
 				"Webkid\\LaravelBooleanSoftdeletes\\LaravelBooleanSoftdeletesServiceProvider"
 			]
 		}
+		"branch-alias": {
+        	"dev-master": "5.2.x-dev"
+    	}
 	}
 }
